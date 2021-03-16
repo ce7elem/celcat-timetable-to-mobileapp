@@ -1,0 +1,25 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-advanced-http": {
+      "PACKAGE_NAME": "space.benaben.edt"
+    },
+    "cordova-plugin-cleartext": {
+      "PACKAGE_NAME": "space.benaben.edt"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "space.benaben.edt"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "space.benaben.edt"
+    }
+  }
+}

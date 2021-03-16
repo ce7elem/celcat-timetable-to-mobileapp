@@ -1,0 +1,4418 @@
+{
+  "_declaration": {
+    "_attributes": {
+      "version": "1.0",
+      "encoding": "UTF-8"
+    }
+  },
+  "_instruction": {
+    "xml-stylesheet": "type=\"text/xsl\" href=\"gridttss.xsl\""
+  },
+  "timetable": {
+    "option": {
+      "_attributes": {
+        "combined": "0",
+        "totalweeks": "0",
+        "showemptydays": "1",
+        "dayclass": "reverse",
+        "titles": "1",
+        "timesConditional": "1"
+      },
+      "link": [
+        {
+          "_attributes": {
+            "href": "g68674.xml",
+            "class": "xml"
+          },
+          "_text": "Version HTML imprimable"
+        },
+        {
+          "_attributes": {
+            "href": "g68674.pdf",
+            "class": "pdf"
+          },
+          "_text": "Version PDF"
+        }
+      ],
+      "weeks": {
+        "_text": "Semaines"
+      },
+      "dates": {
+        "_text": "Dates"
+      },
+      "week": {
+        "_text": "Semaine"
+      },
+      "date": {
+        "_text": "Date"
+      },
+      "all": {
+        "_text": "Toutes les semaines"
+      },
+      "notes": {
+        "_text": "Remarques"
+      },
+      "id": {
+        "_text": "ID"
+      },
+      "eventname": {
+        "_text": "Nom de l'événement"
+      },
+      "selectwk": {
+        "_text": "Sélectionner une semaine"
+      },
+      "day": {
+        "_text": "Jour"
+      },
+      "timeevent": {
+        "_text": "Heure / événement"
+      },
+      "weekind": {
+        "_text": "Semaine(s)"
+      },
+      "details": {
+        "_text": "Détails"
+      },
+      "custom1": {
+        "_text": "statut équipement"
+      },
+      "custom2": {
+        "_text": "Custom 2"
+      },
+      "custom3": {
+        "_text": "Custom 3"
+      },
+      "footer": {
+        "_text": [
+          "Publié 11/03/2021 17:17:45 - Universite de Versailles Saint-Quentin",
+          "Créé par \r\n"
+        ],
+        "br": {},
+        "a": {
+          "_attributes": {
+            "href": "http://www.celcat.com",
+            "target": "_parent"
+          },
+          "_text": "CELCAT Web Publisher"
+        }
+      },
+      "dept": {
+        "_text": "Département"
+      },
+      "evcat": {
+        "_text": "Catégorie d'événement"
+      },
+      "times": {
+        "_text": "Heures"
+      },
+      "subheading": {
+        "_text": "Emploi du temps Groupe - IATIC4"
+      }
+    },
+    "property": {},
+    "period": [
+      {
+        "_attributes": {
+          "id": "0",
+          "col": "4",
+          "times": "08:00 - 09:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "1",
+          "col": "8",
+          "times": "09:00 - 10:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "2",
+          "col": "12",
+          "times": "10:00 - 11:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "3",
+          "col": "16",
+          "times": "11:00 - 12:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "4",
+          "col": "20",
+          "times": "12:00 - 13:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "5",
+          "col": "24",
+          "times": "13:00 - 14:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "6",
+          "col": "28",
+          "times": "14:00 - 15:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "7",
+          "col": "32",
+          "times": "15:00 - 16:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "8",
+          "col": "36",
+          "times": "16:00 - 17:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "9",
+          "col": "40",
+          "times": "17:00 - 18:00"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "10",
+          "col": "44",
+          "times": "18:00 - 19:00"
+        }
+      }
+    ],
+    "span": [
+      {
+        "_attributes": {
+          "id": "0",
+          "date": "08/03/2021",
+          "rawix": "29",
+          "rawlen": "1"
+        },
+        "description": {
+          "_text": "Semaine 11, Semaine commençant le 08/03/2021"
+        },
+        "title": {
+          "_text": "11"
+        },
+        "alleventweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "day": [
+          {
+            "_attributes": {
+              "id": "0"
+            },
+            "name": {
+              "_text": "lundi"
+            },
+            "row": [
+              {
+                "_attributes": {
+                  "id": "0"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          {
+            "_attributes": {
+              "id": "1"
+            },
+            "name": {
+              "_text": "mardi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          },
+          {
+            "_attributes": {
+              "id": "2"
+            },
+            "name": {
+              "_text": "mercredi"
+            },
+            "row": [
+              {
+                "_attributes": {
+                  "id": "0"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          {
+            "_attributes": {
+              "id": "3"
+            },
+            "name": {
+              "_text": "jeudi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          },
+          {
+            "_attributes": {
+              "id": "4"
+            },
+            "name": {
+              "_text": "vendredi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "_attributes": {
+          "id": "1",
+          "date": "15/03/2021",
+          "rawix": "30",
+          "rawlen": "1"
+        },
+        "description": {
+          "_text": "Semaine 12, Semaine commençant le 15/03/2021"
+        },
+        "title": {
+          "_text": "12"
+        },
+        "alleventweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "day": [
+          {
+            "_attributes": {
+              "id": "0"
+            },
+            "name": {
+              "_text": "lundi"
+            },
+            "row": [
+              {
+                "_attributes": {
+                  "id": "0"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          {
+            "_attributes": {
+              "id": "1"
+            },
+            "name": {
+              "_text": "mardi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          },
+          {
+            "_attributes": {
+              "id": "2"
+            },
+            "name": {
+              "_text": "mercredi"
+            },
+            "row": [
+              {
+                "_attributes": {
+                  "id": "0"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          {
+            "_attributes": {
+              "id": "3"
+            },
+            "name": {
+              "_text": "jeudi"
+            },
+            "row": [
+              {
+                "_attributes": {
+                  "id": "0"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          {
+            "_attributes": {
+              "id": "4"
+            },
+            "name": {
+              "_text": "vendredi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "_attributes": {
+          "id": "2",
+          "date": "22/03/2021",
+          "rawix": "31",
+          "rawlen": "1"
+        },
+        "description": {
+          "_text": "Semaine 13, Semaine commençant le 22/03/2021"
+        },
+        "title": {
+          "_text": "13"
+        },
+        "alleventweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "day": [
+          {
+            "_attributes": {
+              "id": "0"
+            },
+            "name": {
+              "_text": "lundi"
+            },
+            "row": [
+              {
+                "_attributes": {
+                  "id": "0"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          {
+            "_attributes": {
+              "id": "1"
+            },
+            "name": {
+              "_text": "mardi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          },
+          {
+            "_attributes": {
+              "id": "2"
+            },
+            "name": {
+              "_text": "mercredi"
+            },
+            "row": [
+              {
+                "_attributes": {
+                  "id": "0"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          {
+            "_attributes": {
+              "id": "3"
+            },
+            "name": {
+              "_text": "jeudi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          },
+          {
+            "_attributes": {
+              "id": "4"
+            },
+            "name": {
+              "_text": "vendredi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "_attributes": {
+          "id": "3",
+          "date": "29/03/2021",
+          "rawix": "32",
+          "rawlen": "1"
+        },
+        "description": {
+          "_text": "Semaine 14, Semaine commençant le 29/03/2021"
+        },
+        "title": {
+          "_text": "14"
+        },
+        "alleventweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "day": [
+          {
+            "_attributes": {
+              "id": "0"
+            },
+            "name": {
+              "_text": "lundi"
+            },
+            "row": [
+              {
+                "_attributes": {
+                  "id": "0"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          {
+            "_attributes": {
+              "id": "1"
+            },
+            "name": {
+              "_text": "mardi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          },
+          {
+            "_attributes": {
+              "id": "2"
+            },
+            "name": {
+              "_text": "mercredi"
+            },
+            "row": [
+              {
+                "_attributes": {
+                  "id": "0"
+                }
+              },
+              {
+                "_attributes": {
+                  "id": "1"
+                }
+              }
+            ]
+          },
+          {
+            "_attributes": {
+              "id": "3"
+            },
+            "name": {
+              "_text": "jeudi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          },
+          {
+            "_attributes": {
+              "id": "4"
+            },
+            "name": {
+              "_text": "vendredi"
+            },
+            "row": {
+              "_attributes": {
+                "id": "0"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "event": [
+      {
+        "_attributes": {
+          "id": "188568",
+          "timesort": "09001030",
+          "colour": "FFBFBF",
+          "ecs": "8",
+          "ecc": "6",
+          "er": "0",
+          "scb": "2"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "09:00-10:30 "
+        },
+        "starttime": {
+          "_text": "09:00"
+        },
+        "endtime": {
+          "_text": "10:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188568",
+          "timesort": "09001030",
+          "colour": "FFBFBF",
+          "ecs": "8",
+          "ecc": "6",
+          "er": "0",
+          "scb": "2"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "09:00-10:30 "
+        },
+        "starttime": {
+          "_text": "09:00"
+        },
+        "endtime": {
+          "_text": "10:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188568",
+          "timesort": "09001030",
+          "colour": "FFBFBF",
+          "ecs": "8",
+          "ecc": "6",
+          "er": "0",
+          "scb": "2"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "09:00-10:30 "
+        },
+        "starttime": {
+          "_text": "09:00"
+        },
+        "endtime": {
+          "_text": "10:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188568",
+          "timesort": "09001030",
+          "colour": "FFBFBF",
+          "ecs": "8",
+          "ecc": "6",
+          "er": "0",
+          "scb": "2"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "09:00-10:30 "
+        },
+        "starttime": {
+          "_text": "09:00"
+        },
+        "endtime": {
+          "_text": "10:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188999",
+          "timesort": "13001430",
+          "colour": "FFBFBF",
+          "ecs": "24",
+          "ecc": "6",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "13:00-14:30 "
+        },
+        "starttime": {
+          "_text": "13:00"
+        },
+        "endtime": {
+          "_text": "14:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Jalby William"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188999",
+          "timesort": "13001430",
+          "colour": "FFBFBF",
+          "ecs": "24",
+          "ecc": "6",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "13:00-14:30 "
+        },
+        "starttime": {
+          "_text": "13:00"
+        },
+        "endtime": {
+          "_text": "14:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Jalby William"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188999",
+          "timesort": "13001430",
+          "colour": "FFBFBF",
+          "ecs": "24",
+          "ecc": "6",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "13:00-14:30 "
+        },
+        "starttime": {
+          "_text": "13:00"
+        },
+        "endtime": {
+          "_text": "14:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Jalby William"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188999",
+          "timesort": "13001430",
+          "colour": "FFBFBF",
+          "ecs": "24",
+          "ecc": "6",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "13:00-14:30 "
+        },
+        "starttime": {
+          "_text": "13:00"
+        },
+        "endtime": {
+          "_text": "14:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Jalby William"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "189001",
+          "timesort": "14301700",
+          "colour": "7FFF7F",
+          "ecs": "30",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "14:30-17:00 "
+        },
+        "starttime": {
+          "_text": "14:30"
+        },
+        "endtime": {
+          "_text": "17:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Camus Kevin"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "189001",
+          "timesort": "14301700",
+          "colour": "7FFF7F",
+          "ecs": "30",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "14:30-17:00 "
+        },
+        "starttime": {
+          "_text": "14:30"
+        },
+        "endtime": {
+          "_text": "17:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Camus Kevin"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "189001",
+          "timesort": "14301700",
+          "colour": "7FFF7F",
+          "ecs": "30",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "14:30-17:00 "
+        },
+        "starttime": {
+          "_text": "14:30"
+        },
+        "endtime": {
+          "_text": "17:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Camus Kevin"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "189001",
+          "timesort": "14301700",
+          "colour": "7FFF7F",
+          "ecs": "30",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "14:30-17:00 "
+        },
+        "starttime": {
+          "_text": "14:30"
+        },
+        "endtime": {
+          "_text": "17:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Camus Kevin"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188997",
+          "timesort": "14301700",
+          "colour": "7FFF7F",
+          "ecs": "30",
+          "ecc": "10",
+          "er": "1",
+          "sca": "2"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "14:30-17:00 "
+        },
+        "starttime": {
+          "_text": "14:30"
+        },
+        "endtime": {
+          "_text": "17:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oseret Emmanuel"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188997",
+          "timesort": "14301700",
+          "colour": "7FFF7F",
+          "ecs": "30",
+          "ecc": "10",
+          "er": "1",
+          "sca": "2"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "14:30-17:00 "
+        },
+        "starttime": {
+          "_text": "14:30"
+        },
+        "endtime": {
+          "_text": "17:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oseret Emmanuel"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188997",
+          "timesort": "14301700",
+          "colour": "7FFF7F",
+          "ecs": "30",
+          "ecc": "10",
+          "er": "1",
+          "sca": "2"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "14:30-17:00 "
+        },
+        "starttime": {
+          "_text": "14:30"
+        },
+        "endtime": {
+          "_text": "17:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oseret Emmanuel"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188997",
+          "timesort": "14301700",
+          "colour": "7FFF7F",
+          "ecs": "30",
+          "ecc": "10",
+          "er": "1",
+          "sca": "2"
+        },
+        "day": {
+          "_text": "0"
+        },
+        "prettytimes": {
+          "_text": "14:30-17:00 "
+        },
+        "starttime": {
+          "_text": "14:30"
+        },
+        "endtime": {
+          "_text": "17:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Architecture des Ordinateurs - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oseret Emmanuel"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "178675",
+          "timesort": "08451045",
+          "colour": "7FFF7F",
+          "ecs": "5",
+          "ecc": "10",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "08:45-10:45 "
+        },
+        "starttime": {
+          "_text": "08:45"
+        },
+        "endtime": {
+          "_text": "10:45"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "LV2 S7"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Mihesso Cornelia"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "178675",
+          "timesort": "08451045",
+          "colour": "7FFF7F",
+          "ecs": "5",
+          "ecc": "10",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "08:45-10:45 "
+        },
+        "starttime": {
+          "_text": "08:45"
+        },
+        "endtime": {
+          "_text": "10:45"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "LV2 S7"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Mihesso Cornelia"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "178675",
+          "timesort": "08451045",
+          "colour": "7FFF7F",
+          "ecs": "5",
+          "ecc": "10",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "08:45-10:45 "
+        },
+        "starttime": {
+          "_text": "08:45"
+        },
+        "endtime": {
+          "_text": "10:45"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "LV2 S7"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Mihesso Cornelia"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "178675",
+          "timesort": "08451045",
+          "colour": "7FFF7F",
+          "ecs": "5",
+          "ecc": "10",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "08:45-10:45 "
+        },
+        "starttime": {
+          "_text": "08:45"
+        },
+        "endtime": {
+          "_text": "10:45"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "LV2 S7"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Mihesso Cornelia"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "184394",
+          "timesort": "14151615",
+          "colour": "7FFF7F",
+          "ecs": "31",
+          "ecc": "6",
+          "er": "0",
+          "sca": "3",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "14:15-16:15 "
+        },
+        "starttime": {
+          "_text": "14:15"
+        },
+        "endtime": {
+          "_text": "16:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "LV2 S7"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": [
+              {
+                "_text": "Potier Evelyn"
+              },
+              {
+                "_text": "Tongzhen Zhu"
+              }
+            ]
+          }
+        },
+        "notes": {
+          "_text": "débutants"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "184394",
+          "timesort": "14151615",
+          "colour": "7FFF7F",
+          "ecs": "31",
+          "ecc": "6",
+          "er": "0",
+          "sca": "3",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "14:15-16:15 "
+        },
+        "starttime": {
+          "_text": "14:15"
+        },
+        "endtime": {
+          "_text": "16:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "LV2 S7"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": [
+              {
+                "_text": "Potier Evelyn"
+              },
+              {
+                "_text": "Tongzhen Zhu"
+              }
+            ]
+          }
+        },
+        "notes": {
+          "_text": "débutants"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "184394",
+          "timesort": "14151615",
+          "colour": "7FFF7F",
+          "ecs": "31",
+          "ecc": "6",
+          "er": "0",
+          "sca": "3",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "14:15-16:15 "
+        },
+        "starttime": {
+          "_text": "14:15"
+        },
+        "endtime": {
+          "_text": "16:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "LV2 S7"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": [
+              {
+                "_text": "Potier Evelyn"
+              },
+              {
+                "_text": "Tongzhen Zhu"
+              }
+            ]
+          }
+        },
+        "notes": {
+          "_text": "débutants"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "184394",
+          "timesort": "14151615",
+          "colour": "7FFF7F",
+          "ecs": "31",
+          "ecc": "6",
+          "er": "0",
+          "sca": "3",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "14:15-16:15 "
+        },
+        "starttime": {
+          "_text": "14:15"
+        },
+        "endtime": {
+          "_text": "16:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "LV2 S7"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": [
+              {
+                "_text": "Potier Evelyn"
+              },
+              {
+                "_text": "Tongzhen Zhu"
+              }
+            ]
+          }
+        },
+        "notes": {
+          "_text": "débutants"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188228",
+          "timesort": "16301800",
+          "colour": "FFBFBF",
+          "ecs": "38",
+          "ecc": "6",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "16:30-18:00 "
+        },
+        "starttime": {
+          "_text": "16:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188228",
+          "timesort": "16301800",
+          "colour": "FFBFBF",
+          "ecs": "38",
+          "ecc": "6",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "16:30-18:00 "
+        },
+        "starttime": {
+          "_text": "16:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188228",
+          "timesort": "16301800",
+          "colour": "FFBFBF",
+          "ecs": "38",
+          "ecc": "6",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "16:30-18:00 "
+        },
+        "starttime": {
+          "_text": "16:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188228",
+          "timesort": "16301800",
+          "colour": "FFBFBF",
+          "ecs": "38",
+          "ecc": "6",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "1"
+        },
+        "prettytimes": {
+          "_text": "16:30-18:00 "
+        },
+        "starttime": {
+          "_text": "16:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "186554",
+          "timesort": "08001000",
+          "colour": "FFBFBF",
+          "ecs": "4",
+          "ecc": "8",
+          "er": "0"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "08:00-10:00 "
+        },
+        "starttime": {
+          "_text": "08:00"
+        },
+        "endtime": {
+          "_text": "10:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Droit des Entreprises et Informatique"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Rossignol François"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "186554",
+          "timesort": "08001000",
+          "colour": "FFBFBF",
+          "ecs": "4",
+          "ecc": "8",
+          "er": "0"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "08:00-10:00 "
+        },
+        "starttime": {
+          "_text": "08:00"
+        },
+        "endtime": {
+          "_text": "10:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Droit des Entreprises et Informatique"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Rossignol François"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "186554",
+          "timesort": "08001000",
+          "colour": "FFBFBF",
+          "ecs": "4",
+          "ecc": "8",
+          "er": "0"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "08:00-10:00 "
+        },
+        "starttime": {
+          "_text": "08:00"
+        },
+        "endtime": {
+          "_text": "10:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Droit des Entreprises et Informatique"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Rossignol François"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "186554",
+          "timesort": "08001000",
+          "colour": "FFBFBF",
+          "ecs": "4",
+          "ecc": "8",
+          "er": "0"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "08:00-10:00 "
+        },
+        "starttime": {
+          "_text": "08:00"
+        },
+        "endtime": {
+          "_text": "10:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Droit des Entreprises et Informatique"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Rossignol François"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188205",
+          "timesort": "12451515",
+          "colour": "7FFF7F",
+          "ecs": "21",
+          "ecc": "12",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "12:45-15:15 "
+        },
+        "starttime": {
+          "_text": "12:45"
+        },
+        "endtime": {
+          "_text": "15:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "111"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188205",
+          "timesort": "12451515",
+          "colour": "7FFF7F",
+          "ecs": "21",
+          "ecc": "12",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "12:45-15:15 "
+        },
+        "starttime": {
+          "_text": "12:45"
+        },
+        "endtime": {
+          "_text": "15:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "111"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188205",
+          "timesort": "12451515",
+          "colour": "7FFF7F",
+          "ecs": "21",
+          "ecc": "12",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "12:45-15:15 "
+        },
+        "starttime": {
+          "_text": "12:45"
+        },
+        "endtime": {
+          "_text": "15:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "111"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188205",
+          "timesort": "12451515",
+          "colour": "7FFF7F",
+          "ecs": "21",
+          "ecc": "12",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "12:45-15:15 "
+        },
+        "starttime": {
+          "_text": "12:45"
+        },
+        "endtime": {
+          "_text": "15:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "111"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188195",
+          "timesort": "12451515",
+          "colour": "7FFF7F",
+          "ecs": "21",
+          "ecc": "12",
+          "er": "1",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "12:45-15:15 "
+        },
+        "starttime": {
+          "_text": "12:45"
+        },
+        "endtime": {
+          "_text": "15:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "214"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188195",
+          "timesort": "12451515",
+          "colour": "7FFF7F",
+          "ecs": "21",
+          "ecc": "12",
+          "er": "1",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "12:45-15:15 "
+        },
+        "starttime": {
+          "_text": "12:45"
+        },
+        "endtime": {
+          "_text": "15:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "214"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188195",
+          "timesort": "12451515",
+          "colour": "7FFF7F",
+          "ecs": "21",
+          "ecc": "12",
+          "er": "1",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "12:45-15:15 "
+        },
+        "starttime": {
+          "_text": "12:45"
+        },
+        "endtime": {
+          "_text": "15:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "214"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188195",
+          "timesort": "12451515",
+          "colour": "7FFF7F",
+          "ecs": "21",
+          "ecc": "12",
+          "er": "1",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "12:45-15:15 "
+        },
+        "starttime": {
+          "_text": "12:45"
+        },
+        "endtime": {
+          "_text": "15:15"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "214"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188198",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "214"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188198",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "214"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188198",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "214"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188198",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Introduction au big data"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Sohier Devan"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "214"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188218",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "1",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "111"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel "
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188215",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "1",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "111"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188216",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "1",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "111"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188217",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "1",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "2"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Système d'Exploitation - Approfondissement"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Oliveira Pablo"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "111"
+            }
+          }
+        },
+        "notes": {
+          "_text": "Enseignements en Présentiel à Velizy"
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188562",
+          "timesort": "09001200",
+          "colour": "FFBFBF",
+          "ecs": "8",
+          "ecc": "12",
+          "er": "0"
+        },
+        "day": {
+          "_text": "3"
+        },
+        "prettytimes": {
+          "_text": "09:00-12:00 "
+        },
+        "starttime": {
+          "_text": "09:00"
+        },
+        "endtime": {
+          "_text": "12:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Recherche Opérationnelle"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Tseveendorj Ider"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188562",
+          "timesort": "09001200",
+          "colour": "FFBFBF",
+          "ecs": "8",
+          "ecc": "12",
+          "er": "0"
+        },
+        "day": {
+          "_text": "3"
+        },
+        "prettytimes": {
+          "_text": "09:00-12:00 "
+        },
+        "starttime": {
+          "_text": "09:00"
+        },
+        "endtime": {
+          "_text": "12:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Recherche Opérationnelle"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Tseveendorj Ider"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "189901",
+          "timesort": "09001800",
+          "colour": "FFBFBF",
+          "ecs": "8",
+          "ecc": "36",
+          "er": "1"
+        },
+        "day": {
+          "_text": "3"
+        },
+        "prettytimes": {
+          "_text": "09:00-18:00 "
+        },
+        "starttime": {
+          "_text": "09:00"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": [
+              {
+                "_text": "Blazevic Pierre"
+              },
+              {
+                "_text": "Bonnin Patrick"
+              },
+              {
+                "_text": "Manoussakis George"
+              }
+            ]
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salles"
+            },
+            "item": [
+              {
+                "_text": "111"
+              },
+              {
+                "_text": "214"
+              },
+              {
+                "_text": "Amphi B"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "189901",
+          "timesort": "09001800",
+          "colour": "FFBFBF",
+          "ecs": "8",
+          "ecc": "36",
+          "er": "0"
+        },
+        "day": {
+          "_text": "3"
+        },
+        "prettytimes": {
+          "_text": "09:00-18:00 "
+        },
+        "starttime": {
+          "_text": "09:00"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": [
+              {
+                "_text": "Blazevic Pierre"
+              },
+              {
+                "_text": "Bonnin Patrick"
+              },
+              {
+                "_text": "Manoussakis George"
+              }
+            ]
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salles"
+            },
+            "item": [
+              {
+                "_text": "111"
+              },
+              {
+                "_text": "214"
+              },
+              {
+                "_text": "Amphi B"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "189901",
+          "timesort": "09001800",
+          "colour": "FFBFBF",
+          "ecs": "8",
+          "ecc": "36",
+          "er": "0"
+        },
+        "day": {
+          "_text": "3"
+        },
+        "prettytimes": {
+          "_text": "09:00-18:00 "
+        },
+        "starttime": {
+          "_text": "09:00"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": [
+              {
+                "_text": "Blazevic Pierre"
+              },
+              {
+                "_text": "Bonnin Patrick"
+              },
+              {
+                "_text": "Manoussakis George"
+              }
+            ]
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salles"
+            },
+            "item": [
+              {
+                "_text": "111"
+              },
+              {
+                "_text": "214"
+              },
+              {
+                "_text": "Amphi B"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188563",
+          "timesort": "13001530",
+          "colour": "7FFF7F",
+          "ecs": "24",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "3"
+        },
+        "prettytimes": {
+          "_text": "13:00-15:30 "
+        },
+        "starttime": {
+          "_text": "13:00"
+        },
+        "endtime": {
+          "_text": "15:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Recherche Opérationnelle"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Tseveendorj Ider"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188563",
+          "timesort": "13001530",
+          "colour": "7FFF7F",
+          "ecs": "24",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "3"
+        },
+        "prettytimes": {
+          "_text": "13:00-15:30 "
+        },
+        "starttime": {
+          "_text": "13:00"
+        },
+        "endtime": {
+          "_text": "15:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Recherche Opérationnelle"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Tseveendorj Ider"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188565",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "3"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Recherche Opérationnelle"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Tseveendorj Ider"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188565",
+          "timesort": "15301800",
+          "colour": "7FFF7F",
+          "ecs": "34",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "3"
+        },
+        "prettytimes": {
+          "_text": "15:30-18:00 "
+        },
+        "starttime": {
+          "_text": "15:30"
+        },
+        "endtime": {
+          "_text": "18:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Recherche Opérationnelle"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Tseveendorj Ider"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "185625",
+          "timesort": "09451245",
+          "colour": "FFBFBF",
+          "ecs": "9",
+          "ecc": "14",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "4"
+        },
+        "prettytimes": {
+          "_text": "09:45-12:45 "
+        },
+        "starttime": {
+          "_text": "09:45"
+        },
+        "endtime": {
+          "_text": "12:45"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Droit des Entreprises et Informatique"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Rossignol François"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "185625",
+          "timesort": "09451245",
+          "colour": "FFBFBF",
+          "ecs": "9",
+          "ecc": "14",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "4"
+        },
+        "prettytimes": {
+          "_text": "09:45-12:45 "
+        },
+        "starttime": {
+          "_text": "09:45"
+        },
+        "endtime": {
+          "_text": "12:45"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Droit des Entreprises et Informatique"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Rossignol François"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "185625",
+          "timesort": "09451245",
+          "colour": "FFBFBF",
+          "ecs": "9",
+          "ecc": "14",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "4"
+        },
+        "prettytimes": {
+          "_text": "09:45-12:45 "
+        },
+        "starttime": {
+          "_text": "09:45"
+        },
+        "endtime": {
+          "_text": "12:45"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Droit des Entreprises et Informatique"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Rossignol François"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "185625",
+          "timesort": "09451245",
+          "colour": "FFBFBF",
+          "ecs": "9",
+          "ecc": "14",
+          "er": "0",
+          "sca": "1",
+          "scb": "1"
+        },
+        "day": {
+          "_text": "4"
+        },
+        "prettytimes": {
+          "_text": "09:45-12:45 "
+        },
+        "starttime": {
+          "_text": "09:45"
+        },
+        "endtime": {
+          "_text": "12:45"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Droit des Entreprises et Informatique"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Rossignol François"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188566",
+          "timesort": "14001630",
+          "colour": "7FFF7F",
+          "ecs": "28",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "4"
+        },
+        "prettytimes": {
+          "_text": "14:00-16:30 "
+        },
+        "starttime": {
+          "_text": "14:00"
+        },
+        "endtime": {
+          "_text": "16:30"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G2"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Recherche Opérationnelle"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Tseveendorj Ider"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      },
+      {
+        "_attributes": {
+          "id": "188564",
+          "timesort": "16301900",
+          "colour": "7FFF7F",
+          "ecs": "38",
+          "ecc": "10",
+          "er": "0",
+          "cellshare": "1"
+        },
+        "day": {
+          "_text": "4"
+        },
+        "prettytimes": {
+          "_text": "16:30-19:00 "
+        },
+        "starttime": {
+          "_text": "16:30"
+        },
+        "endtime": {
+          "_text": "19:00"
+        },
+        "prettyweeks": {},
+        "rawweeks": {
+          "_text": "NNNNNNNNNNNNNNNNNNNNNNNNNNNNYNNNNNNNNNNNNNNNNNNNNNNN"
+        },
+        "resources": {
+          "group": {
+            "_attributes": {
+              "title": "Groupe"
+            },
+            "item": {
+              "_text": "IATIC4-G1"
+            }
+          },
+          "module": {
+            "_attributes": {
+              "title": "Matière"
+            },
+            "item": {
+              "_text": "Recherche Opérationnelle"
+            }
+          },
+          "staff": {
+            "_attributes": {
+              "title": "Personnel"
+            },
+            "item": {
+              "_text": "Tseveendorj Ider"
+            }
+          },
+          "room": {
+            "_attributes": {
+              "title": "Salle"
+            },
+            "item": {
+              "_text": "distancielIATIC4"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

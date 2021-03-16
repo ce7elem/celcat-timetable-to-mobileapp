@@ -1,0 +1,732 @@
+{
+  '1615158000000': {
+    date: 'lundi 8 mars',
+    courses: {
+      '09:00+IATIC4+Sohier Devan': {
+        colour: 'FFBFBF',
+        day: '0',
+        starttime: '09:00',
+        endtime: '10:30',
+        group: 'IATIC4',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: 'distancielIATIC4'
+      },
+      '13:00+IATIC4+Jalby William': {
+        colour: 'FFBFBF',
+        day: '0',
+        starttime: '13:00',
+        endtime: '14:30',
+        group: 'IATIC4',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Jalby William',
+        room: undefined
+      },
+      '14:30+IATIC4-G2+Camus Kevin': {
+        colour: '7FFF7F',
+        day: '0',
+        starttime: '14:30',
+        endtime: '17:00',
+        group: 'IATIC4-G2',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Camus Kevin',
+        room: undefined
+      },
+      '14:30+IATIC4-G1+Oseret Emmanuel': {
+        colour: '7FFF7F',
+        day: '0',
+        starttime: '14:30',
+        endtime: '17:00',
+        group: 'IATIC4-G1',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Oseret Emmanuel',
+        room: undefined
+      }
+    }
+  },
+  '1615244400000': {
+    date: 'mardi 9 mars',
+    courses: {
+      '08:45+IATIC4+Mihesso Cornelia': {
+        colour: '7FFF7F',
+        day: '1',
+        starttime: '08:45',
+        endtime: '10:45',
+        group: 'IATIC4',
+        module: 'LV2 S7',
+        teacher: 'Mihesso Cornelia',
+        room: undefined
+      },
+      '14:15+IATIC4+undefined': {
+        colour: '7FFF7F',
+        day: '1',
+        starttime: '14:15',
+        endtime: '16:15',
+        group: 'IATIC4',
+        module: 'LV2 S7',
+        teacher: undefined,
+        room: undefined
+      },
+      '16:30+IATIC4+Oliveira Pablo': {
+        colour: 'FFBFBF',
+        day: '1',
+        starttime: '16:30',
+        endtime: '18:00',
+        group: 'IATIC4',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: 'distancielIATIC4'
+      }
+    }
+  },
+  '1615330800000': {
+    date: 'mercredi 10 mars',
+    courses: {
+      '08:00+IATIC4+Rossignol François': {
+        colour: 'FFBFBF',
+        day: '2',
+        starttime: '08:00',
+        endtime: '10:00',
+        group: 'IATIC4',
+        module: 'Droit des Entreprises et Informatique',
+        teacher: 'Rossignol François',
+        room: 'distancielIATIC4'
+      },
+      '12:45+IATIC4-G2+Sohier Devan': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '12:45',
+        endtime: '15:15',
+        group: 'IATIC4-G2',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: '111'
+      },
+      '12:45+IATIC4-G1+Oliveira Pablo': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '12:45',
+        endtime: '15:15',
+        group: 'IATIC4-G1',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: '214'
+      },
+      '15:30+IATIC4-G1+Sohier Devan': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G1',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: '214'
+      },
+      '15:30+IATIC4-G2+Oliveira Pablo': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G2',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: '111'
+      }
+    }
+  },
+  '1615417200000': {
+    date: 'jeudi 11 mars',
+    courses: {
+      '09:00+IATIC4+Tseveendorj Ider': {
+        colour: 'FFBFBF',
+        day: '3',
+        starttime: '09:00',
+        endtime: '12:00',
+        group: 'IATIC4',
+        module: 'Recherche Opérationnelle',
+        teacher: 'Tseveendorj Ider',
+        room: 'distancielIATIC4'
+      },
+      '13:00+IATIC4-G1+Tseveendorj Ider': {
+        colour: '7FFF7F',
+        day: '3',
+        starttime: '13:00',
+        endtime: '15:30',
+        group: 'IATIC4-G1',
+        module: 'Recherche Opérationnelle',
+        teacher: 'Tseveendorj Ider',
+        room: 'distancielIATIC4'
+      },
+      '15:30+IATIC4-G2+Tseveendorj Ider': {
+        colour: '7FFF7F',
+        day: '3',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G2',
+        module: 'Recherche Opérationnelle',
+        teacher: 'Tseveendorj Ider',
+        room: 'distancielIATIC4'
+      }
+    }
+  },
+  '1615503600000': {
+    date: 'vendredi 12 mars',
+    courses: {
+      '09:45+IATIC4+Rossignol François': {
+        colour: 'FFBFBF',
+        day: '4',
+        starttime: '09:45',
+        endtime: '12:45',
+        group: 'IATIC4',
+        module: 'Droit des Entreprises et Informatique',
+        teacher: 'Rossignol François',
+        room: 'distancielIATIC4'
+      },
+      '14:00+IATIC4-G2+Tseveendorj Ider': {
+        colour: '7FFF7F',
+        day: '4',
+        starttime: '14:00',
+        endtime: '16:30',
+        group: 'IATIC4-G2',
+        module: 'Recherche Opérationnelle',
+        teacher: 'Tseveendorj Ider',
+        room: 'distancielIATIC4'
+      },
+      '16:30+IATIC4-G1+Tseveendorj Ider': {
+        colour: '7FFF7F',
+        day: '4',
+        starttime: '16:30',
+        endtime: '19:00',
+        group: 'IATIC4-G1',
+        module: 'Recherche Opérationnelle',
+        teacher: 'Tseveendorj Ider',
+        room: 'distancielIATIC4'
+      }
+    }
+  },
+  '1615762800000': {
+    date: 'lundi 15 mars',
+    courses: {
+      '09:00+IATIC4+Sohier Devan': {
+        colour: 'FFBFBF',
+        day: '0',
+        starttime: '09:00',
+        endtime: '10:30',
+        group: 'IATIC4',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: 'distancielIATIC4'
+      },
+      '13:00+IATIC4+Jalby William': {
+        colour: 'FFBFBF',
+        day: '0',
+        starttime: '13:00',
+        endtime: '14:30',
+        group: 'IATIC4',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Jalby William',
+        room: undefined
+      },
+      '14:30+IATIC4-G2+Camus Kevin': {
+        colour: '7FFF7F',
+        day: '0',
+        starttime: '14:30',
+        endtime: '17:00',
+        group: 'IATIC4-G2',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Camus Kevin',
+        room: undefined
+      },
+      '14:30+IATIC4-G1+Oseret Emmanuel': {
+        colour: '7FFF7F',
+        day: '0',
+        starttime: '14:30',
+        endtime: '17:00',
+        group: 'IATIC4-G1',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Oseret Emmanuel',
+        room: undefined
+      }
+    }
+  },
+  '1615849200000': {
+    date: 'mardi 16 mars',
+    courses: {
+      '08:45+IATIC4+Mihesso Cornelia': {
+        colour: '7FFF7F',
+        day: '1',
+        starttime: '08:45',
+        endtime: '10:45',
+        group: 'IATIC4',
+        module: 'LV2 S7',
+        teacher: 'Mihesso Cornelia',
+        room: undefined
+      },
+      '14:15+IATIC4+undefined': {
+        colour: '7FFF7F',
+        day: '1',
+        starttime: '14:15',
+        endtime: '16:15',
+        group: 'IATIC4',
+        module: 'LV2 S7',
+        teacher: undefined,
+        room: undefined
+      },
+      '16:30+IATIC4+Oliveira Pablo': {
+        colour: 'FFBFBF',
+        day: '1',
+        starttime: '16:30',
+        endtime: '18:00',
+        group: 'IATIC4',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: 'distancielIATIC4'
+      }
+    }
+  },
+  '1615935600000': {
+    date: 'mercredi 17 mars',
+    courses: {
+      '08:00+IATIC4+Rossignol François': {
+        colour: 'FFBFBF',
+        day: '2',
+        starttime: '08:00',
+        endtime: '10:00',
+        group: 'IATIC4',
+        module: 'Droit des Entreprises et Informatique',
+        teacher: 'Rossignol François',
+        room: 'distancielIATIC4'
+      },
+      '12:45+IATIC4-G2+Sohier Devan': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '12:45',
+        endtime: '15:15',
+        group: 'IATIC4-G2',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: '111'
+      },
+      '12:45+IATIC4-G1+Oliveira Pablo': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '12:45',
+        endtime: '15:15',
+        group: 'IATIC4-G1',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: '214'
+      },
+      '15:30+IATIC4-G1+Sohier Devan': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G1',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: '214'
+      },
+      '15:30+IATIC4-G2+Oliveira Pablo': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G2',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: '111'
+      }
+    }
+  },
+  '1616022000000': {
+    date: 'jeudi 18 mars',
+    courses: {
+      '09:00+IATIC4+Tseveendorj Ider': {
+        colour: 'FFBFBF',
+        day: '3',
+        starttime: '09:00',
+        endtime: '12:00',
+        group: 'IATIC4',
+        module: 'Recherche Opérationnelle',
+        teacher: 'Tseveendorj Ider',
+        room: 'distancielIATIC4'
+      },
+      '09:00+IATIC4+undefined': {
+        colour: 'FFBFBF',
+        day: '3',
+        starttime: '09:00',
+        endtime: '18:00',
+        group: 'IATIC4',
+        module: undefined,
+        teacher: undefined,
+        room: undefined
+      },
+      '13:00+IATIC4-G1+Tseveendorj Ider': {
+        colour: '7FFF7F',
+        day: '3',
+        starttime: '13:00',
+        endtime: '15:30',
+        group: 'IATIC4-G1',
+        module: 'Recherche Opérationnelle',
+        teacher: 'Tseveendorj Ider',
+        room: 'distancielIATIC4'
+      },
+      '15:30+IATIC4-G2+Tseveendorj Ider': {
+        colour: '7FFF7F',
+        day: '3',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G2',
+        module: 'Recherche Opérationnelle',
+        teacher: 'Tseveendorj Ider',
+        room: 'distancielIATIC4'
+      }
+    }
+  },
+  '1616108400000': {
+    date: 'vendredi 19 mars',
+    courses: {
+      '09:45+IATIC4+Rossignol François': {
+        colour: 'FFBFBF',
+        day: '4',
+        starttime: '09:45',
+        endtime: '12:45',
+        group: 'IATIC4',
+        module: 'Droit des Entreprises et Informatique',
+        teacher: 'Rossignol François',
+        room: 'distancielIATIC4'
+      }
+    }
+  },
+  '1616367600000': {
+    date: 'lundi 22 mars',
+    courses: {
+      '09:00+IATIC4+Sohier Devan': {
+        colour: 'FFBFBF',
+        day: '0',
+        starttime: '09:00',
+        endtime: '10:30',
+        group: 'IATIC4',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: 'distancielIATIC4'
+      },
+      '13:00+IATIC4+Jalby William': {
+        colour: 'FFBFBF',
+        day: '0',
+        starttime: '13:00',
+        endtime: '14:30',
+        group: 'IATIC4',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Jalby William',
+        room: undefined
+      },
+      '14:30+IATIC4-G2+Camus Kevin': {
+        colour: '7FFF7F',
+        day: '0',
+        starttime: '14:30',
+        endtime: '17:00',
+        group: 'IATIC4-G2',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Camus Kevin',
+        room: undefined
+      },
+      '14:30+IATIC4-G1+Oseret Emmanuel': {
+        colour: '7FFF7F',
+        day: '0',
+        starttime: '14:30',
+        endtime: '17:00',
+        group: 'IATIC4-G1',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Oseret Emmanuel',
+        room: undefined
+      }
+    }
+  },
+  '1616454000000': {
+    date: 'mardi 23 mars',
+    courses: {
+      '08:45+IATIC4+Mihesso Cornelia': {
+        colour: '7FFF7F',
+        day: '1',
+        starttime: '08:45',
+        endtime: '10:45',
+        group: 'IATIC4',
+        module: 'LV2 S7',
+        teacher: 'Mihesso Cornelia',
+        room: undefined
+      },
+      '14:15+IATIC4+undefined': {
+        colour: '7FFF7F',
+        day: '1',
+        starttime: '14:15',
+        endtime: '16:15',
+        group: 'IATIC4',
+        module: 'LV2 S7',
+        teacher: undefined,
+        room: undefined
+      },
+      '16:30+IATIC4+Oliveira Pablo': {
+        colour: 'FFBFBF',
+        day: '1',
+        starttime: '16:30',
+        endtime: '18:00',
+        group: 'IATIC4',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: 'distancielIATIC4'
+      }
+    }
+  },
+  '1616540400000': {
+    date: 'mercredi 24 mars',
+    courses: {
+      '08:00+IATIC4+Rossignol François': {
+        colour: 'FFBFBF',
+        day: '2',
+        starttime: '08:00',
+        endtime: '10:00',
+        group: 'IATIC4',
+        module: 'Droit des Entreprises et Informatique',
+        teacher: 'Rossignol François',
+        room: 'distancielIATIC4'
+      },
+      '12:45+IATIC4-G2+Sohier Devan': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '12:45',
+        endtime: '15:15',
+        group: 'IATIC4-G2',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: '111'
+      },
+      '12:45+IATIC4-G1+Oliveira Pablo': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '12:45',
+        endtime: '15:15',
+        group: 'IATIC4-G1',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: '214'
+      },
+      '15:30+IATIC4-G1+Sohier Devan': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G1',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: '214'
+      },
+      '15:30+IATIC4-G2+Oliveira Pablo': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G2',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: '111'
+      }
+    }
+  },
+  '1616626800000': {
+    date: 'jeudi 25 mars',
+    courses: {
+      '09:00+IATIC4+undefined': {
+        colour: 'FFBFBF',
+        day: '3',
+        starttime: '09:00',
+        endtime: '18:00',
+        group: 'IATIC4',
+        module: undefined,
+        teacher: undefined,
+        room: undefined
+      }
+    }
+  },
+  '1616713200000': {
+    date: 'vendredi 26 mars',
+    courses: {
+      '09:45+IATIC4+Rossignol François': {
+        colour: 'FFBFBF',
+        day: '4',
+        starttime: '09:45',
+        endtime: '12:45',
+        group: 'IATIC4',
+        module: 'Droit des Entreprises et Informatique',
+        teacher: 'Rossignol François',
+        room: 'distancielIATIC4'
+      }
+    }
+  },
+  '1616968800000': {
+    date: 'lundi 29 mars',
+    courses: {
+      '09:00+IATIC4+Sohier Devan': {
+        colour: 'FFBFBF',
+        day: '0',
+        starttime: '09:00',
+        endtime: '10:30',
+        group: 'IATIC4',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: 'distancielIATIC4'
+      },
+      '13:00+IATIC4+Jalby William': {
+        colour: 'FFBFBF',
+        day: '0',
+        starttime: '13:00',
+        endtime: '14:30',
+        group: 'IATIC4',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Jalby William',
+        room: undefined
+      },
+      '14:30+IATIC4-G2+Camus Kevin': {
+        colour: '7FFF7F',
+        day: '0',
+        starttime: '14:30',
+        endtime: '17:00',
+        group: 'IATIC4-G2',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Camus Kevin',
+        room: undefined
+      },
+      '14:30+IATIC4-G1+Oseret Emmanuel': {
+        colour: '7FFF7F',
+        day: '0',
+        starttime: '14:30',
+        endtime: '17:00',
+        group: 'IATIC4-G1',
+        module: 'Architecture des Ordinateurs - Approfondissement',
+        teacher: 'Oseret Emmanuel',
+        room: undefined
+      }
+    }
+  },
+  '1617055200000': {
+    date: 'mardi 30 mars',
+    courses: {
+      '08:45+IATIC4+Mihesso Cornelia': {
+        colour: '7FFF7F',
+        day: '1',
+        starttime: '08:45',
+        endtime: '10:45',
+        group: 'IATIC4',
+        module: 'LV2 S7',
+        teacher: 'Mihesso Cornelia',
+        room: undefined
+      },
+      '14:15+IATIC4+undefined': {
+        colour: '7FFF7F',
+        day: '1',
+        starttime: '14:15',
+        endtime: '16:15',
+        group: 'IATIC4',
+        module: 'LV2 S7',
+        teacher: undefined,
+        room: undefined
+      },
+      '16:30+IATIC4+Oliveira Pablo': {
+        colour: 'FFBFBF',
+        day: '1',
+        starttime: '16:30',
+        endtime: '18:00',
+        group: 'IATIC4',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: 'distancielIATIC4'
+      }
+    }
+  },
+  '1617141600000': {
+    date: 'mercredi 31 mars',
+    courses: {
+      '08:00+IATIC4+Rossignol François': {
+        colour: 'FFBFBF',
+        day: '2',
+        starttime: '08:00',
+        endtime: '10:00',
+        group: 'IATIC4',
+        module: 'Droit des Entreprises et Informatique',
+        teacher: 'Rossignol François',
+        room: 'distancielIATIC4'
+      },
+      '12:45+IATIC4-G2+Sohier Devan': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '12:45',
+        endtime: '15:15',
+        group: 'IATIC4-G2',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: '111'
+      },
+      '12:45+IATIC4-G1+Oliveira Pablo': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '12:45',
+        endtime: '15:15',
+        group: 'IATIC4-G1',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: '214'
+      },
+      '15:30+IATIC4-G1+Sohier Devan': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G1',
+        module: 'Introduction au big data',
+        teacher: 'Sohier Devan',
+        room: '214'
+      },
+      '15:30+IATIC4-G2+Oliveira Pablo': {
+        colour: '7FFF7F',
+        day: '2',
+        starttime: '15:30',
+        endtime: '18:00',
+        group: 'IATIC4-G2',
+        module: "Système d'Exploitation - Approfondissement",
+        teacher: 'Oliveira Pablo',
+        room: '111'
+      }
+    }
+  },
+  '1617228000000': {
+    date: 'jeudi 1 avril',
+    courses: {
+      '09:00+IATIC4+undefined': {
+        colour: 'FFBFBF',
+        day: '3',
+        starttime: '09:00',
+        endtime: '18:00',
+        group: 'IATIC4',
+        module: undefined,
+        teacher: undefined,
+        room: undefined
+      }
+    }
+  },
+  '1617314400000': {
+    date: 'vendredi 2 avril',
+    courses: {
+      '09:45+IATIC4+Rossignol François': {
+        colour: 'FFBFBF',
+        day: '4',
+        starttime: '09:45',
+        endtime: '12:45',
+        group: 'IATIC4',
+        module: 'Droit des Entreprises et Informatique',
+        teacher: 'Rossignol François',
+        room: 'distancielIATIC4'
+      }
+    }
+  }
+}
